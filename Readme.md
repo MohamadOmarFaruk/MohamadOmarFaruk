@@ -1,7 +1,4 @@
-  <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
-  </div> ---
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Mohammad%20O.A.S.A.F&fontSize=48&fontColor=fff&fontFamily=Orbitron&animation=twinkling&fontAlignY=35&desc=%F0%9F%A4%96%20AI%2FML%20%7C%7C%20%F0%9F%92%BB%20Full%20Stack%20Web%20Developer%20%7C%7C%20%F0%9F%93%B1%20App%20Developer%20%7C%7C%20%F0%9F%8C%90%20WordPress%20%7C%7C%20%F0%9F%8E%AC%20Content%20Creation&descSize=16&descAlignY=55&descFontFamily=Fira%20Code&textBg=false"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%E2%80%9CStay%20in%20learning%20It%E2%80%99s%20the%20place%20where%20no%20one%20can%20replace%20you%2C%20not%20even%20AI.%20Stay%20learning%20and%20keep%20earning.%E2%80%9D" alt="Typing introduction" />
@@ -99,6 +96,3 @@ I am Mohammad Omar Faruk, a Computer Science & Engineering student from Banglade
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
-
-
-
