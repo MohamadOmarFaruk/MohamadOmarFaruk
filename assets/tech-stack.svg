@@ -1,0 +1,204 @@
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="240" viewBox="0 0 940 240">
+  <!-- Row 1 -->
+  <g>
+    <rect x="20" y="20" width="140" height="40" rx="8" fill="#0d1117" stroke="#00ff41" stroke-width="2">
+      <animate attributeName="stroke" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="0s" repeatCount="indefinite"/>
+    </rect>
+    <text x="90" y="46" text-anchor="middle" font-family="monospace" font-size="15" font-weight="600" fill="#00ff41">JavaScript
+      <animate attributeName="fill" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="0s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <rect x="172" y="20" width="140" height="40" rx="8" fill="#0d1117" stroke="#00ff41" stroke-width="2">
+      <animate attributeName="stroke" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="0.2s" repeatCount="indefinite"/>
+    </rect>
+    <text x="242" y="46" text-anchor="middle" font-family="monospace" font-size="15" font-weight="600" fill="#00ff41">TypeScript
+      <animate attributeName="fill" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="0.2s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <rect x="324" y="20" width="140" height="40" rx="8" fill="#0d1117" stroke="#00ff41" stroke-width="2">
+      <animate attributeName="stroke" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="0.4s" repeatCount="indefinite"/>
+    </rect>
+    <text x="394" y="46" text-anchor="middle" font-family="monospace" font-size="15" font-weight="600" fill="#00ff41">Python
+      <animate attributeName="fill" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="0.4s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <rect x="476" y="20" width="140" height="40" rx="8" fill="#0d1117" stroke="#00ff41" stroke-width="2">
+      <animate attributeName="stroke" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="0.6s" repeatCount="indefinite"/>
+    </rect>
+    <text x="546" y="46" text-anchor="middle" font-family="monospace" font-size="15" font-weight="600" fill="#00ff41">C++
+      <animate attributeName="fill" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="0.6s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <rect x="628" y="20" width="140" height="40" rx="8" fill="#0d1117" stroke="#00ff41" stroke-width="2">
+      <animate attributeName="stroke" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="0.8s" repeatCount="indefinite"/>
+    </rect>
+    <text x="698" y="46" text-anchor="middle" font-family="monospace" font-size="15" font-weight="600" fill="#00ff41">PHP
+      <animate attributeName="fill" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="0.8s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <rect x="780" y="20" width="140" height="40" rx="8" fill="#0d1117" stroke="#00ff41" stroke-width="2">
+      <animate attributeName="stroke" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="1s" repeatCount="indefinite"/>
+    </rect>
+    <text x="850" y="46" text-anchor="middle" font-family="monospace" font-size="15" font-weight="600" fill="#00ff41">React
+      <animate attributeName="fill" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="1s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- Row 2 -->
+  <g>
+    <rect x="20" y="80" width="140" height="40" rx="8" fill="#0d1117" stroke="#00ff41" stroke-width="2">
+      <animate attributeName="stroke" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="1.2s" repeatCount="indefinite"/>
+    </rect>
+    <text x="90" y="106" text-anchor="middle" font-family="monospace" font-size="15" font-weight="600" fill="#00ff41">Next.js
+      <animate attributeName="fill" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="1.2s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <rect x="172" y="80" width="140" height="40" rx="8" fill="#0d1117" stroke="#00ff41" stroke-width="2">
+      <animate attributeName="stroke" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="1.4s" repeatCount="indefinite"/>
+    </rect>
+    <text x="242" y="106" text-anchor="middle" font-family="monospace" font-size="15" font-weight="600" fill="#00ff41">HTML5
+      <animate attributeName="fill" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="1.4s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <rect x="324" y="80" width="140" height="40" rx="8" fill="#0d1117" stroke="#00ff41" stroke-width="2">
+      <animate attributeName="stroke" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="1.6s" repeatCount="indefinite"/>
+    </rect>
+    <text x="394" y="106" text-anchor="middle" font-family="monospace" font-size="15" font-weight="600" fill="#00ff41">CSS3
+      <animate attributeName="fill" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="1.6s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <rect x="476" y="80" width="140" height="40" rx="8" fill="#0d1117" stroke="#00ff41" stroke-width="2">
+      <animate attributeName="stroke" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="1.8s" repeatCount="indefinite"/>
+    </rect>
+    <text x="546" y="106" text-anchor="middle" font-family="monospace" font-size="15" font-weight="600" fill="#00ff41">Tailwind CSS
+      <animate attributeName="fill" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="1.8s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <rect x="628" y="80" width="140" height="40" rx="8" fill="#0d1117" stroke="#00ff41" stroke-width="2">
+      <animate attributeName="stroke" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="2s" repeatCount="indefinite"/>
+    </rect>
+    <text x="698" y="106" text-anchor="middle" font-family="monospace" font-size="15" font-weight="600" fill="#00ff41">Node.js
+      <animate attributeName="fill" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="2s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <rect x="780" y="80" width="140" height="40" rx="8" fill="#0d1117" stroke="#00ff41" stroke-width="2">
+      <animate attributeName="stroke" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="2.2s" repeatCount="indefinite"/>
+    </rect>
+    <text x="850" y="106" text-anchor="middle" font-family="monospace" font-size="15" font-weight="600" fill="#00ff41">Express.js
+      <animate attributeName="fill" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="2.2s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- Row 3 -->
+  <g>
+    <rect x="20" y="140" width="140" height="40" rx="8" fill="#0d1117" stroke="#00ff41" stroke-width="2">
+      <animate attributeName="stroke" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="2.4s" repeatCount="indefinite"/>
+    </rect>
+    <text x="90" y="166" text-anchor="middle" font-family="monospace" font-size="15" font-weight="600" fill="#00ff41">Django
+      <animate attributeName="fill" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="2.4s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <rect x="172" y="140" width="140" height="40" rx="8" fill="#0d1117" stroke="#00ff41" stroke-width="2">
+      <animate attributeName="stroke" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="2.6s" repeatCount="indefinite"/>
+    </rect>
+    <text x="242" y="166" text-anchor="middle" font-family="monospace" font-size="15" font-weight="600" fill="#00ff41">Flask
+      <animate attributeName="fill" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="2.6s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <rect x="324" y="140" width="140" height="40" rx="8" fill="#0d1117" stroke="#00ff41" stroke-width="2">
+      <animate attributeName="stroke" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="2.8s" repeatCount="indefinite"/>
+    </rect>
+    <text x="394" y="166" text-anchor="middle" font-family="monospace" font-size="15" font-weight="600" fill="#00ff41">Laravel
+      <animate attributeName="fill" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="2.8s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <rect x="476" y="140" width="140" height="40" rx="8" fill="#0d1117" stroke="#00ff41" stroke-width="2">
+      <animate attributeName="stroke" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="3s" repeatCount="indefinite"/>
+    </rect>
+    <text x="546" y="166" text-anchor="middle" font-family="monospace" font-size="15" font-weight="600" fill="#00ff41">MySQL
+      <animate attributeName="fill" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="3s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <rect x="628" y="140" width="140" height="40" rx="8" fill="#0d1117" stroke="#00ff41" stroke-width="2">
+      <animate attributeName="stroke" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="3.2s" repeatCount="indefinite"/>
+    </rect>
+    <text x="698" y="166" text-anchor="middle" font-family="monospace" font-size="15" font-weight="600" fill="#00ff41">MongoDB
+      <animate attributeName="fill" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="3.2s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <rect x="780" y="140" width="140" height="40" rx="8" fill="#0d1117" stroke="#00ff41" stroke-width="2">
+      <animate attributeName="stroke" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="3.4s" repeatCount="indefinite"/>
+    </rect>
+    <text x="850" y="166" text-anchor="middle" font-family="monospace" font-size="15" font-weight="600" fill="#00ff41">Docker
+      <animate attributeName="fill" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="3.4s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- Row 4 -->
+  <g>
+    <rect x="20" y="200" width="140" height="40" rx="8" fill="#0d1117" stroke="#00ff41" stroke-width="2">
+      <animate attributeName="stroke" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="3.6s" repeatCount="indefinite"/>
+    </rect>
+    <text x="90" y="226" text-anchor="middle" font-family="monospace" font-size="15" font-weight="600" fill="#00ff41">Git
+      <animate attributeName="fill" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="3.6s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <rect x="172" y="200" width="140" height="40" rx="8" fill="#0d1117" stroke="#00ff41" stroke-width="2">
+      <animate attributeName="stroke" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="3.8s" repeatCount="indefinite"/>
+    </rect>
+    <text x="242" y="226" text-anchor="middle" font-family="monospace" font-size="15" font-weight="600" fill="#00ff41">VS Code
+      <animate attributeName="fill" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="3.8s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <rect x="324" y="200" width="140" height="40" rx="8" fill="#0d1117" stroke="#00ff41" stroke-width="2">
+      <animate attributeName="stroke" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="4s" repeatCount="indefinite"/>
+    </rect>
+    <text x="394" y="226" text-anchor="middle" font-family="monospace" font-size="15" font-weight="600" fill="#00ff41">Figma
+      <animate attributeName="fill" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="4s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <rect x="476" y="200" width="140" height="40" rx="8" fill="#0d1117" stroke="#00ff41" stroke-width="2">
+      <animate attributeName="stroke" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="4.2s" repeatCount="indefinite"/>
+    </rect>
+    <text x="546" y="226" text-anchor="middle" font-family="monospace" font-size="15" font-weight="600" fill="#00ff41">Postman
+      <animate attributeName="fill" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="4.2s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <rect x="628" y="200" width="140" height="40" rx="8" fill="#0d1117" stroke="#00ff41" stroke-width="2">
+      <animate attributeName="stroke" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="4.4s" repeatCount="indefinite"/>
+    </rect>
+    <text x="698" y="226" text-anchor="middle" font-family="monospace" font-size="15" font-weight="600" fill="#00ff41">Vite
+      <animate attributeName="fill" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="4.4s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g>
+    <rect x="780" y="200" width="140" height="40" rx="8" fill="#0d1117" stroke="#00ff41" stroke-width="2">
+      <animate attributeName="stroke" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="4.6s" repeatCount="indefinite"/>
+    </rect>
+    <text x="850" y="226" text-anchor="middle" font-family="monospace" font-size="15" font-weight="600" fill="#00ff41">Google Cloud
+      <animate attributeName="fill" values="#00ff41;#00ffff;#ff00ff;#ffd700;#00ff41" dur="6s" begin="4.6s" repeatCount="indefinite"/>
+    </text>
+  </g>
+</svg>
