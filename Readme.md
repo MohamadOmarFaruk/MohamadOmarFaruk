@@ -53,16 +53,12 @@ I am Mohammad Omar Faruk, a Computer Science & Engineering student from Banglade
 </p>
 
 
-## 🛠️ Languages & Tools
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MohamadOmarFaruk/MohamadOmarFaruk/main/assets/tech-stack.svg" alt="Languages and Tools" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/MohamadOmarFaruk">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MohamadOmarFaruk&langs_count=8&layout=compact&theme=highcontrast&border_radius=10" alt="Top Languages" />
-  </a>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 </p>
 
 <br/>
